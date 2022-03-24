@@ -5,3 +5,5 @@ INSERT into pays(idpays ,nom_pays ,nom_continent)
  (3,'Irlande','Europe'),
  (4,'Italie','Europe'),
  (5,'France','Europe');
+
+INSERT INTO  
