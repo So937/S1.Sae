@@ -14,5 +14,5 @@ INSERT INTO cas(idcas, newcase_million, newcase, test_per_case, dates, idpays)
  (4,,,,4),
  (5,,,,5);
  
- INSERT INTO mort 
+ INSERT INTO mort(idmort,)
  
